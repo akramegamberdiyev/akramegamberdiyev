@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Akram Egamberdiyev <img src=https://media0.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif?cid=ecf05e47zwkytqadjs53w1bdwdlvgbo5qtediw8r3dqh1azm&rid=giphy.gif&ct=g width="30px">
 
 <!--
 **akramegamberdiyev/akramegamberdiyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
